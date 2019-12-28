@@ -4,7 +4,7 @@ Open Management System [OMS] is an open-source online software solution for mana
 
 ## Licenses
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE) for complete details.
+Content is released under [MIT](https://mit-license.org/). See [LICENSE](LICENSE) for complete details.
 
 ## Acknowledgments
 
